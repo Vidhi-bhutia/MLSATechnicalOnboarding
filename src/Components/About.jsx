@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/image2.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "cute rocks background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "As a Digital Innovator, I am weaving creativity and technology to bring ideas to life and make a meaningful impact.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Programming",
+  "Prototyping",
+  "Graphic Designing",
+  "Photography",
+  "Prompt Engineer",
+  "Team Management",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Hello! I'm Vidhi Bhutia, a dynamic problem solver and Microsoft Certified professional specializing in Azure AI Fundamentals. Currently pursuing a Bachelor's in Computer Science and Business Systems at Vellore Institute of Technology, I bring a unique blend of creativity and technical proficiency to the table. With expertise in photography, graphic design, entrepreneurship and coding, I am passionate about transforming ideas into innovative digital solutions.";
 
 const About = () => {
   return (

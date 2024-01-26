@@ -31,28 +31,25 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Voulme Controller",
+    description: "Python OpenCV project to change volume of your PC using finger gestures.",
+    url: "https://github.com/Vidhi-bhutia/Volume-Control-Through-Hands",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Music Player",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A Music Player GUI where you need to select the music from your PC and you can pause, resume, stop, and increase/decrease the volume of the music.",
+    url: "https://github.com/Vidhi-bhutia/Music-Player",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "My Portfolio Site",
+    description: "Created a Portfolio with canva to showcase my Graphic Designing Skills.",
+    url: "https://vidhi-bhutia.my.canva.site/portfolio",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Bus Management Prototype",
+    description: "Created a Bus Management Application's prototype to showcase my Figma skills",
+    url: "https://www.figma.com/proto/XX6r4eReVyneRbYaMCy3vK/Bus-Management-System?type=design&node-id=105-27&t=eWJx8eyEzgGVscCL-1&scaling=scale-down&page-id=0%3A1&mode=design",
   },
 ];
 
